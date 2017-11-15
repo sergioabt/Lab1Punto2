@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lab1Punto2</string>
+    <string name="registro">registro</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="registrar">Registrar</string>
+    <string name="información">Información</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="dormir">Dormir</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="bailar">Bailar</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="Registro">Registro</string>
+    <string name="Nombre">Usuario</string>
+    <string name="Apellido">Password</string>
+    <string name="repcont">Repetir Contraseña</string>
+    <string name="fecha">Fecha Nacimiento</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cucuta</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Cartagena</item>
+        <item>Santa Marta</item>
+        <item>Manizales</item>
+
+    </string-array>
+</resources>
